@@ -76,7 +76,7 @@ footer{
 </p>
 
 <!-- Image 1 -->
-<img src="pizza1.jpg" alt="Homemade Pizza">
+<img src="pizza1.jpg" alt="Pizza1">
 
 <h2>⏰ बनाने का समय</h2>
 
@@ -115,7 +115,7 @@ footer{
 
 <!-- Image 2 -->
 
-<img src="pizza2.jpg" alt="Pizza Ingredients">
+<img src="pizza2.jpg" alt="pizza2">
 
 <h3>टॉपिंग के लिए</h3>
 
@@ -186,7 +186,7 @@ footer{
 
 <!-- Image 3 -->
 
-<img src="pizza3.jpg" alt="Ready Cheese Pizza">
+<img src="pizza3.jpg" alt="pizza3">
 
 <h2>⭐ बाजार जैसा स्वाद पाने के आसान टिप्स</h2>
 
