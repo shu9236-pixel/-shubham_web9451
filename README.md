@@ -16,6 +16,16 @@
 अगर आप घर पर बाजार जैसा स्वादिष्ट पिज्जा बनाना चाहते हैं, तो यह आसान रेसिपी आपके लिए है।
 </p>
 
+<h2>पिज्जा की तस्वीरें</h2>
+
+<img src="pizza 1.jpg" alt="Pizza 1" width="300">
+<br><br>
+
+<img src="pizza 2.jpg" alt="Pizza 2" width="300">
+<br><br>
+
+<img src="pizza 3.jpg" alt="Pizza 3" width="300">
+
 <h2>सामग्री</h2>
 <ul>
 <li>2 कप मैदा</li>
